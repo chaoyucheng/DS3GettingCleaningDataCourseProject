@@ -1,0 +1,46 @@
+===================================================
+Field label: Avg.Body.Signal.Value
+
+Variable type: numeric
+
+Allowable values: -1 < Avg.Body.Signal.Value < 1
+
+Comments: The number is the average of sensor signal from test and traing data set group by dimentions, statistic measure types, sensor types and activity types
+
+===================================================
+Field label: Dimention
+
+Variable type: charactor
+
+Allowable values: 'X', 'Y', 'Z'
+
+Comments: To indicate the dimentation of Signal.Value.Body from the original data set
+
+===================================================
+Field label: Statistic.Measure
+
+Variable type: Character string
+
+Allowable values: "Mean", "Standard Deviation"
+
+Comments: To indicate the statistic measure type of Signal.Value.Body from the original data set
+
+===================================================
+Field label: Sensor.Type
+
+Variable type: Character string
+
+Allowable values: "Accelerometer", "Gyroscope"
+
+Comments: To indicate the Sensor.Type of Signal.Value.Body from the original data set
+===================================================
+Field label: Activity.Name
+
+Variable type: Character string
+
+Allowable values: "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"
+
+Comments: To indicate the activity type of Signal.Value.Body from the original data set
+
+===================================================
+    
