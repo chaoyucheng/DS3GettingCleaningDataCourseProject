@@ -1,3 +1,4 @@
+# To process Samsung smartphone data set
 run_analysis <- function () {
   library(dplyr)
   data_path <- "getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/"

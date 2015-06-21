@@ -2,7 +2,7 @@
 # Course Project: Creating a tidy data set from
 # Human Activity Recognition Using Smartphones Dataset
 # Name of student: Chao-Yu Cheng
-# Date: 6/19/2015
+# Date: 6/19/2015 
 
 ## The repo includes the following files:
 
