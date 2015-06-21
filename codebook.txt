@@ -1,11 +1,20 @@
 ===================================================
-Field label: Avg.Body.Signal.Value
+Field label: Avg.Body.Signal.Value.Time
 
 Variable type: numeric
 
 Allowable values: -1 < Avg.Body.Signal.Value < 1
 
-Comments: The number is the average of sensor signal from test and traing data set group by dimentions, statistic measure types, sensor types and activity types
+Comments: The number is the average of sensor signal of time domain from test and traing data set group by dimentions, statistic measure types, sensor types and activity types
+
+===================================================
+Field label: Avg.Body.Signal.Value.Freq
+
+Variable type: numeric
+
+Allowable values: -1 < Avg.Body.Signal.Value < 1
+
+Comments: The number is the average of sensor signal of frequency domain from test and traing data set group by dimentions, statistic measure types, sensor types and activity types
 
 ===================================================
 Field label: Dimention
